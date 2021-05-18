@@ -1,12 +1,14 @@
 - 👋 Hi, I’m Prasoon ,student of BCA pursuing my Bachelor Degree from Ignou.
-- ### 👀 My keenness is towards following : ###
+- #### What I am Looking for: :question: ####
+- Core concept behind every tools,how they works :milky_way:
+- ### 👀 My keenness is towards following ### :relieved:
 -  CI/CD using Jenkins 
--  Ansible
--  Kubernetes
--  Terraform
--  AWS
--  Azure
--  Monitoring and Scaling Solution
+- :balloon:  Ansible
+- :santa: Kubernetes
+-  :tada: Terraform
+- :gift: AWS
+- :pill: Azure
+- ⏰: Monitoring and Scaling Solution
 
  
 - 📫 Connect With me  -- LinkedIn -- https://www.linkedin.com/in/prasoon-mishra-baaa41186
