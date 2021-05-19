@@ -12,6 +12,14 @@
 
  
 - #####  Connect With Me #####
--   📫 LinkedIn -- https://www.linkedin.com/in/prasoon-mishra-baaa41186
+
+-   📫 [LinkedIn](https://www.linkedin.com/in/prasoon-mishra-baaa41186) 
+- [<img align="left" alt="Prasoon Mishra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+
+
+ [LinkedIn]: https://www.linkedin.com/in/prasoon-mishra-baaa41186
+---
+<img height="150" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
 
