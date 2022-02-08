@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prasoon ,student of BCA pursuing my Bachelor Degree from Ignou and at the same time learning new technology and tools :technologist:
+- 👋 Hi, I’m Prasoon ,student of MCA pursuing my Bachelor Degree from Ignou and at the same time learning new technology and tools :technologist:
 - #### What I am Looking for: :question: ####
 - Core concept behind every tools,how they works :milky_way:
 - ### 👀 My keenness is towards following ### :relieved:
