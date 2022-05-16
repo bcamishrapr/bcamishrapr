@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Prasoon ,student of MCA pursuing my Master Degree from Ignou and at the same time learning new technologies and tools :technologist:
+
+---
 - #### What I am Looking for: :question: ####
 - Core concept behind every tools,how they works :milky_way:
+---
 - ### 👀 My keenness is towards following ### :relieved:
 - :dart: CI/CD using Jenkins 
 - :balloon:  Ansible
@@ -19,7 +22,10 @@
 
 
  [LinkedIn]: https://www.linkedin.com/in/prasoon-mishra-baaa41186
+ 
+ 
 ---
+
 <img height="150" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ![](https://komarev.com/ghpvc/?username=bcamishrapr&label=PROFILE+VIEWS)
