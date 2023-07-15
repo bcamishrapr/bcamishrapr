@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Prasoon ,student of MCA pursuing my Master Degree from Ignou and at the same time learning new technologies and tools :technologist:
+- 👋 Hi, I’m Prasoon ,student of MCA pursuing my Master Degree from Ignou & at the same time exploring open source :technologist:
 
 ---
 - #### What I am Looking for: :question: ####
 - Core concept behind every tools,how they works :milky_way:
 ---
-- ### 👀 My keenness is towards following ### :relieved:
+- ### 👀 My Interests ### :relieved:
 - :dart: CI/CD using Jenkins 
 - :balloon:  Ansible
 - :santa: Kubernetes
