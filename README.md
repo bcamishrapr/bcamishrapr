@@ -1,35 +1,44 @@
-- 👋 Hi, I’m Prasoon ,student of MCA pursuing my Master Degree from Ignou & at the same time exploring open source :technologist:
+# Hi there, I'm Bcamishrapr 👋
 
----
-- #### What I am Looking for: :question: ####
-- Core concept behind every tools,how they works :milky_way:
----
-- ### 👀 My Interests ### :relieved:
-- :dart: CI/CD using Jenkins 
-- :balloon:  Ansible
-- :santa: Kubernetes
--  :tada: Terraform
--  :man_dancing: Docker
-- :gift: AWS
-- :pill: Azure
-- ⏰: Monitoring and Scaling Solution
+![Profile Views](https://komarev.com/ghpvc/?username=bcamishrapr&color=blue)
 
- 
-- #####  Connect With Me #####
+## 🚀 About Me
 
--   📫 [LinkedIn](https://www.linkedin.com/in/prasoon-mishra-baaa41186) 
-- [<img align="left" alt="Prasoon Mishra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+I am a passionate developer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies.
 
+## 🛠️ Technologies & Tools
 
- [LinkedIn]: https://www.linkedin.com/in/prasoon-mishra-baaa41186
- [Medium]: https://medium.com/@prassonmishra330
- 
- 
----
+- **Languages**: Python, Java
+- **Tech-stack**: AWS, Kubernetes, ArgoCD, Jenkins, Ansible
+- **Databases**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Others**: Docker, Kubernetes, AWS
 
-<img height="150" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+## 🔭 Current Projects
 
-![](https://komarev.com/ghpvc/?username=bcamishrapr&label=PROFILE+VIEWS)
+- [Project Name](https://github.com/bcamishrapr/project-name) - Brief description of the project.
+- [Another Project](https://github.com/bcamishrapr/another-project) - Brief description of the project.
+
+## 🌱 Learning Goals
+
+- Improving my skills in machine learning and AI.
+- Exploring blockchain technology.
+- Enhancing my knowledge of cloud computing with AWS.
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/prasoon-mishra-baaa41186)
+- **Medium**: [medium](https://medium.com/@prassonmishra330)
+
+## ⚡ Fun Fact
+
+I love solving puzzles and playing chess in my free time!
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bcamishrapr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcamishrapr&layout=compact&theme=radical)
 
 
 
