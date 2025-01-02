@@ -22,6 +22,7 @@
 
 
  [LinkedIn]: https://www.linkedin.com/in/prasoon-mishra-baaa41186
+ [Medium]: https://medium.com/@prassonmishra330
  
  
 ---
