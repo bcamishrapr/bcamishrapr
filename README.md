@@ -1,4 +1,4 @@
-# Hi there, I'm Bcamishrapr 👋
+# Hi there, I'm Prasoon 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bcamishrapr&color=blue)
 
@@ -9,25 +9,15 @@ I am a passionate developer with a love for coding and problem-solving. I enjoy 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, Java
-- **Tech-stack**: AWS, Kubernetes, ArgoCD, Jenkins, Ansible
+- **Tech-stack**: AWS, Kubernetes, ArgoCD, Jenkins, Ansible, Linux
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
-- **Others**: Docker, Kubernetes, AWS
+- **Others**: Jboss Fuse, Backstage.io, Prometheus-stack
 
-## 🔭 Current Projects
-
-- [Project Name](https://github.com/bcamishrapr/project-name) - Brief description of the project.
-- [Another Project](https://github.com/bcamishrapr/another-project) - Brief description of the project.
-
-## 🌱 Learning Goals
-
-- Improving my skills in machine learning and AI.
-- Exploring blockchain technology.
-- Enhancing my knowledge of cloud computing with AWS.
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/prasoon-mishra-baaa41186)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/prasoon-mishra-baaa41186)
 - **Medium**: [medium](https://medium.com/@prassonmishra330)
 
 ## ⚡ Fun Fact
