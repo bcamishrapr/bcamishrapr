@@ -9,7 +9,7 @@ I am a passionate developer with a love for coding and problem-solving. I enjoy 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, Java
-- **Tech-stack**: AWS, Kubernetes, ArgoCD, Jenkins, Ansible, Linux
+- **Tech-stack**: AWS, Kubernetes, ArgoCD, Terraform, Jenkins, Ansible, Linux
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 - **Others**: Jboss Fuse, Backstage.io, Prometheus-stack
